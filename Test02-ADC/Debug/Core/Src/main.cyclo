@@ -1,0 +1,13 @@
+myLib.c:1:5:__io_putchar	1
+main.c:67:6:myDelay	3
+main.c:74:5:GetAdcValue	1
+main.c:86:6:noOp	1
+main.c:87:6:HAL_ADC_ConvCpltCallback	1
+main.c:108:5:main	1
+main.c:162:6:SystemClock_Config	3
+main.c:209:13:MX_ADC1_Init	4
+main.c:271:13:MX_TIM3_Init	4
+main.c:316:13:MX_USART2_UART_Init	2
+main.c:347:13:MX_DMA_Init	1
+main.c:365:13:MX_GPIO_Init	1
+main.c:411:6:Error_Handler	1
